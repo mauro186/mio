@@ -61,39 +61,40 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
-#EXTINF:-1,ECUAVISA HD
-http://flash.shortgod.com/viscao/tv5.php?id=1538
-#EXTINF:-1,RTS HD
-http://flash.shortgod.com/viscao/tv5.php?id=1539
-#EXTINF:-1,TELEAMAZONAS FHD
-http://flash.shortgod.com/viscao/tv5.php?id=1540
-#EXTINF:-1,TC TELEVISION HD
-http://flash.shortgod.com/viscao/tv5.php?id=1542
-#EXTINF:-1,,EC: EL CANAL DEL FUTBOL
-http://flash.shortgod.com/viscao/tv5.php?id=1870
-#EXTINF:-1,EC GOL TV FHD
-http://flash.shortgod.com/viscao/tv5.php?id=14880
-#EXTINF:-1,Teleamazonas Full HD (Quito)
-http://flash.shortgod.com/viscao/tv5.php?id=14881
-#EXTINF:-1,EC | CANELATV
-http://flash.shortgod.com/viscao/tv5.php?id=19679
-#EXTINF:-1,EC | Directv Sports +
-http://flash.shortgod.com/viscao/tv5.php?id=21794
-#EXTINF:-1,Gol TV ECU FHD
-http://flash.shortgod.com/viscao/tv5.php?id=54674
-#EXTINF:-1,DTV Sports 2 (Ecuador)
-http://flash.shortgod.com/viscao/tv5.php?id=55286
-#EXTINF:-1,DTV Sports 1 (Ecuador)
-http://flash.shortgod.com/viscao/tv5.php?id=65179
-#EXTINF:-1,TVC Ecuador
-http://flash.shortgod.com/viscao/tv5.php?id=72780
-#EXTINF:-1,Telerama
-http://flash.shortgod.com/viscao/tv5.php?id=72781
-#EXTINF:-1,Oromar
-http://flash.shortgod.com/viscao/tv5.php?id=72782
-#EXTINF:-1,Ecuador Tv
-http://flash.shortgod.com/viscao/tv5.php?id=72783
-#EXTINF:-1,Gamavision
-http://flash.shortgod.com/viscao/tv5.php?id=72784
-#EXTINF:-1,i | espn2
-http://flash.shortgod.com/viscao/tv5.php?id=74602
+#EXTINF:-1,FHD ||| GAMAVISION
+http://flash.shortgod.com/kickpapa/tv1.php?id=4107
+#EXTINF:-1,FHD ||| TC TELEVISION
+http://flash.shortgod.com/kickpapa/tv1.php?id=4108
+#EXTINF:-1,FHD ||| TVC
+http://flash.shortgod.com/kickpapa/tv1.php?id=4110
+#EXTINF:-1,Noticias Univision 24/7
+http://flash.shortgod.com/kickpapa/tv1.php?id=4176
+#EXTINF:-1,ECU: Ecuavisa
+http://flash.shortgod.com/kickpapa/tv1.php?id=4179
+#EXTINF:-1,ECU: Ecuavisa Internacional
+http://flash.shortgod.com/kickpapa/tv1.php?id=4180
+#EXTINF:-1,ECU:Canela TV
+http://flash.shortgod.com/kickpapa/tv1.php?id=4183
+#EXTINF:-1,ECU: TVC
+http://flash.shortgod.com/kickpapa/tv1.php?id=4185
+#EXTINF:-1,EC: Oromar
+http://flash.shortgod.com/kickpapa/tv1.php?id=4191
+#EXTINF:-1,EC: RTU
+http://flash.shortgod.com/kickpapa/tv1.php?id=4192
+#EXTINF:-1,EC: Gamavision
+http://flash.shortgod.com/kickpapa/tv1.php?id=4194
+#EXTINF:-1,EC: Gol Tv
+http://flash.shortgod.com/kickpapa/tv1.php?id=4195
+#EXTINF:-1,EC: Ecuavisa Sierra
+http://flash.shortgod.com/kickpapa/tv1.php?id=4196
+#EXTINF:-1,EC: Tele Amazonas Quito
+http://flash.shortgod.com/kickpapa/tv1.php?id=4197
+#EXTINF:-1,SP: EC: Directv Ecuador
+http://flash.shortgod.com/kickpapa/tv1.php?id=4199
+#EXTINF:-1,SP: EC: Gol TV
+http://flash.shortgod.com/kickpapa/tv1.php?id=4200
+#EXTINF:-1,SP: EC: Gol TV HD
+http://flash.shortgod.com/kickpapa/tv1.php?id=4201
+#EXTINF:-1,SP: EC: El Canal del Futbol SD
+http://flash.shortgod.com/kickpapa/tv1.php?id=4202
+#EXTINF:-1,SP: EC: El Canal del Futbol HD
