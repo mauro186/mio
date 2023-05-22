@@ -60,10 +60,6 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
-#EXTINF:-1,FHD ||| GAMAVISION
-http://flash.shortgod.com/kickpapa/tv1.php?id=4107
-#EXTINF:-1 tvg-logo="" group-title="ECUADOR",TC Televisión
-http://flash.shortgod.com/kickpapa/tv4.php?id=4362&f=.m3u8
 #EXTINF:-1,FHD ||| TC TELEVISIÓN
 http://flash.shortgod.com/perupecausa/tv1.php?id=4108
 #EXTINF:-1,FHD ||| TVC
