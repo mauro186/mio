@@ -64,40 +64,39 @@ https://live.unsion.tv/hls/stream_src/index.m3u8
 http://flash.shortgod.com/kickpapa/tv1.php?id=4107
 #EXTINF:-1 tvg-logo="" group-title="ECUADOR",TC Televisión
 http://flash.shortgod.com/kickpapa/tv4.php?id=4362&f=.m3u8
-#EXTINF:-1,FHD ||| TC TELEVISION
-http://flash.shortgod.com/kickpapa/tv1.php?id=4108
+#EXTINF:-1,FHD ||| TC TELEVISIÓN
+http://flash.shortgod.com/perupecausa/tv1.php?id=4108
 #EXTINF:-1,FHD ||| TVC
-http://flash.shortgod.com/kickpapa/tv1.php?id=4110
-#EXTINF:-1 tvg-logo="" group-title="ECUADOR",Ecuavisa
-http://flash.shortgod.com/kickpapa/tv4.php?id=4268&f=.m3u8
+http://flash.shortgod.com/perupecausa/tv1.php?id=4110
 #EXTINF:-1,Noticias Univision 24/7
-http://flash.shortgod.com/kickpapa/tv1.php?id=4176
-#EXTINF:-1,ECU: Ecuavisa
-http://flash.shortgod.com/kickpapa/tv1.php?id=4179
+http://flash.shortgod.com/perupecausa/tv1.php?id=4176
+#EXTINF:-1,ECU:Ecuavisa
+http://flash.shortgod.com/perupecausa/tv1.php?id=4179
 #EXTINF:-1,ECU: Ecuavisa Internacional
-http://flash.shortgod.com/kickpapa/tv1.php?id=4180
+http://flash.shortgod.com/perupecausa/tv1.php?id=4180
 #EXTINF:-1,ECU:Canela TV
-http://flash.shortgod.com/kickpapa/tv1.php?id=4183
-#EXTINF:-1,ECU: TVC
-http://flash.shortgod.com/kickpapa/tv1.php?id=4185
-#EXTINF:-1,EC: Oromar
-http://flash.shortgod.com/kickpapa/tv1.php?id=4191
-#EXTINF:-1,EC: RTU
-http://flash.shortgod.com/kickpapa/tv1.php?id=4192
-#EXTINF:-1,EC: Gamavision
-http://flash.shortgod.com/kickpapa/tv1.php?id=4194
+http://flash.shortgod.com/perupecausa/tv1.php?id=4183
+#EXTINF:-1, ECU: TVC
+http://flash.shortgod.com/perupecausa/tv1.php?id=4185
+#EXTINF:-1,CE: Oromar
+http://flash.shortgod.com/perupecausa/tv1.php?id=4191
+#EXTINF:-1,CE: RTU
+http://flash.shortgod.com/perupecausa/tv1.php?id=4192
+#EXTINF:-1,EC: Gamavisión
+http://flash.shortgod.com/perupecausa/tv1.php?id=4194
 #EXTINF:-1,EC: Gol Tv
-http://flash.shortgod.com/kickpapa/tv1.php?id=4195
-#EXTINF:-1,EC: Ecuavisa Sierra
-http://flash.shortgod.com/kickpapa/tv1.php?id=4196
+http://flash.shortgod.com/perupecausa/tv1.php?id=4195
+#EXTINF:-1,CE: Ecuavisa Sierra
+http://flash.shortgod.com/perupecausa/tv1.php?id=4196
 #EXTINF:-1,EC: Tele Amazonas Quito
-http://flash.shortgod.com/kickpapa/tv1.php?id=4197
-#EXTINF:-1,SP: EC: Directv Ecuador
-http://flash.shortgod.com/kickpapa/tv1.php?id=4199
-#EXTINF:-1,SP: EC: Gol TV
-http://flash.shortgod.com/kickpapa/tv1.php?id=4200
-#EXTINF:-1,SP: EC: Gol TV HD
-http://flash.shortgod.com/kickpapa/tv1.php?id=4201
-#EXTINF:-1,SP: EC: El Canal del Futbol SD
-http://flash.shortgod.com/kickpapa/tv1.php?id=4202
-#EXTINF:-1,SP: EC: El Canal del Futbol HD
+http://flash.shortgod.com/perupecausa/tv1.php?id=4197
+#EXTINF:-1,SP: CE: Directv Ecuador
+http://flash.shortgod.com/perupecausa/tv1.php?id=4199
+#EXTINF:-1,SP: CE: Gol TV
+http://flash.shortgod.com/perupecausa/tv1.php?id=4200
+#EXTINF:-1,SP: CE: Gol TV HD
+http://flash.shortgod.com/perupecausa/tv1.php?id=4201
+#EXTINF:-1,SP: CE: El Canal del Fútbol SD
+http://flash.shortgod.com/perupecausa/tv1.php?id=4202
+#EXTINF:-1,SP: EC: El Canal del Fútbol HD
+http://flash.shortgod.com/perupecausa/tv1.php?id=4203
