@@ -22,6 +22,8 @@ https://youvideostreaming.club/hls/ecutv4.m3u8
 http://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA
 https://youvideostreaming.club/hls/ecutv1.m3u8
+#EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA 2
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png" group-title="TV ECUADOR",RTU
