@@ -62,47 +62,34 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
-#EXTINF:-1,FHD ||| GAMAVISION
-http://pe.shortgod.com/lord20/tv1.php?id=4107
-#EXTINF:-1,FHD ||| TC TELEVISIÓN
-http://pe.shortgod.com/lord20/tv1.php?id=4108
-#EXTINF:-1,FHD ||| TVC
-http://pe.shortgod.com/lord20/tv1.php?id=4110
-#EXTINF:-1,Noticias Univision 24/7
-http://pe.shortgod.com/lord20/tv1.php?id=4176
-#EXTINF:-1,ECU:Ecuavisa
-http://pe.shortgod.com/lord20/tv1.php?id=4179
-#EXTINF:-1,ECU: Ecuavisa Internacional
-http://pe.shortgod.com/lord20/tv1.php?id=4180
-#EXTINF:-1,ECU:Canela TV
-http://pe.shortgod.com/lord20/tv1.php?id=4183
-#EXTINF:-1, ECU: TVC
-http://pe.shortgod.com/lord20/tv1.php?id=4185
-#EXTINF:-1,CE: Oromar
-http://pe.shortgod.com/lord20/tv1.php?id=4191
-#EXTINF:-1,CE: RTU
-http://pe.shortgod.com/lord20/tv1.php?id=4192
-#EXTINF:-1,EC: Gamavisión
-http://pe.shortgod.com/lord20/tv1.php?id=4194
-#EXTINF:-1,EC: Gol Tv
-http://pe.shortgod.com/lord20/tv1.php?id=4195
-#EXTINF:-1,CE: Ecuavisa Sierra
-http://pe.shortgod.com/lord20/tv1.php?id=4196
-#EXTINF:-1,EC: Tele Amazonas Quito
-http://pe.shortgod.com/lord20/tv1.php?id=4197
-#EXTINF:-1,SP: CE: Directv Ecuador
-http://pe.shortgod.com/lord20/tv1.php?id=4199
-#EXTINF:-1,SP: CE: GolTV
-http://pe.shortgod.com/lord20/tv1.php?id=4200
-#EXTINF:-1,SP: CE: Gol TV HD
-http://pe.shortgod.com/lord20/tv1.php?id=4201
-#EXTINF:-1,SP: CE: El Canal del Fútbol SD
-http://pe.shortgod.com/lord20/tv1.php?id=4202
-#EXTINF:-1,SP: EC: El Canal del Fútbol HD
-http://pe.shortgod.com/lord20/tv1.php?id=4203
-#EXTINF:-1,CO | caracol
-http://pe.shortgod.com/lord20/tv1.php?id=4212
-#EXTINF:-1,CO: Caracol FHD
-http://pe.shortgod.com/lord20/tv1.php?id=4213
-#EXTINF:-1,CO: Caracol Internacional
-http://pe.shortgod.com/lord20/tv1.php?id=4214
+#EXTINF:-1,ECU : Canal Uno
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=529.ts
+
+#EXTINF:-1,ECU : Ecuador TV
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=525.ts
+
+#EXTINF:-1,ECU: Ecuavisa
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=524.ts
+
+#EXTINF:-1,ECU: GamaVision HD
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=531.ts
+
+#EXTINF:-1, ECU: RTS HD
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=530.ts
+
+#EXTINF:-1,ECU: Televisión TC
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=526.ts
+
+#EXTINF:-1,ECU: TeleAmazonas HD
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=527.ts
+
+#EXTINF:-1,ECU : TVC Televicentro
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=528.ts
