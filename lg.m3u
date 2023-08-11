@@ -66,6 +66,10 @@ https://live.unsion.tv/hls/stream_src/index.m3u8
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
 http://pe.shortgod.com/kicksports/tv2.php?id=529.ts
 
+#EXTINF:-1,ECU : Canal Uno
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/kicksports/tv2.php?id=529.ts
+
 #EXTINF:-1,ECU : Ecuador TV
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
 http://pe.shortgod.com/kicksports/tv2.php?id=525.ts
