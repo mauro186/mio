@@ -67,33 +67,33 @@ https://live.unsion.tv/hls/stream_src/index.m3u8
 http://pe.shortgod.com/kicksports/tv2.php?id=529.ts
 
 #EXTINF:-1,ECU : Canal Uno
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=529.ts
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=529.ts
 
 #EXTINF:-1,ECU : Ecuador TV
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=525.ts
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=525.ts
 
-#EXTINF:-1,ECU: Ecuavisa
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=524.ts
+#EXTINF:-1,ECU : Ecuavisa
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=524.ts
 
-#EXTINF:-1,ECU: GamaVision HD
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=531.ts
+#EXTINF:-1,ECU : GamaVision HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=531.ts
 
-#EXTINF:-1, ECU: RTS HD
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=530.ts
+#EXTINF:-1,ECU : RTS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=530.ts
 
-#EXTINF:-1,ECU: Televisión TC
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=526.ts
+#EXTINF:-1,ECU : TC Television
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=526.ts
 
-#EXTINF:-1,ECU: TeleAmazonas HD
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=527.ts
+#EXTINF:-1,ECU : TeleAmazonas HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=527.ts
 
 #EXTINF:-1,ECU : TVC Televicentro
-#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/kicksports/tv2.php?id=528.ts
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/mdko/tv2.php?id=528.ts
