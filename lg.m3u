@@ -90,3 +90,6 @@ http://pe.shortgod.com/mdko/tv2.php?id=527.ts
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
 http://pe.shortgod.com/mdko/tv2.php?id=528.ts
 http://pe.shortgod.com/mdko/tv2.php?id=528.ts
+
+#EXTINF:-1,TC Television
+http://pe.shortgod.com/mdko/tv10.php?id=4362
