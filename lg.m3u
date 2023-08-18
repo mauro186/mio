@@ -62,34 +62,34 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
+#EXTINF:-1,ECU : Canal Uno
+#EXTVLCOPT:http-usuario-agente=SyS1stemAp0
+http://pe.shortgod.com/mmgv/tv2.php?id=529.ts
+
 #EXTINF:-1,ECU : Ecuador TV
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=525.ts
+http://pe.shortgod.com/mmgv/tv2.php?id=525.ts
 
 #EXTINF:-1,ECU: Ecuavisa
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=524.ts
+http://pe.shortgod.com/mmgv/tv2.php?id=524.ts
 
 #EXTINF:-1,ECU: GamaVision HD
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=531.ts
+http://pe.shortgod.com/mmgv/tv2.php?id=531.ts
 
 #EXTINF:-1, ECU: RTS HD
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=530.ts
+http://pe.shortgod.com/mmgv/tv2.php?id=530.ts
 
 #EXTINF:-1,ECU: Televisión TC
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=526.ts
+http://pe.shortgod.com/mmgv/tv2.php?id=526.ts
 
 #EXTINF:-1,ECU: TeleAmazonas HD
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=527.ts
+http://pe.shortgod.com/mmgv/tv2.php?id=527.ts
 
 #EXTINF:-1,ECU : TVC Televicentro
 #EXTVLCOPT:http-usuario-agente=SyS1stemAp0
-http://pe.shortgod.com/mdko/tv2.php?id=528.ts
-http://pe.shortgod.com/mdko/tv2.php?id=528.ts
-
-#EXTINF:-1,TC Television
-http://pe.shortgod.com/mdko/tv10.php?id=4362
+http://pe.shortgod.com/mmgv/tv2.php?id=528.ts
