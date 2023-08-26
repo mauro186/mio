@@ -64,33 +64,18 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
 #EXTINF:-1,ECU : Canal Uno
-
 http://pe.shortgod.com/speed20/tv2/529.m3u8
-
 #EXTINF:-1,ECU:Ecuador TV
-
 http://pe.shortgod.com/speed20/tv2/525.m3u8
-
 #EXTINF:-1,ECU: Ecuavisa
-
 http://pe.shortgod.com/speed20/tv2/524.m3u8
-
 #EXTINF:-1,ECU: GamaVision HD
-
 http://pe.shortgod.com/speed20/tv2/531.m3u8
-
 #EXTINF:-1,ECU: RTS HD
-
 http://pe.shortgod.com/speed20/tv2/530.m3u8
-
 #EXTINF:-1,ECU: TC Televisión
-
 http://pe.shortgod.com/speed20/tv2/526.m3u8
-
 #EXTINF:-1,ECU: TeleAmazonas HD
-
 http://pe.shortgod.com/speed20/tv2/527.m3u8
-
 #EXTINF:-1,ECU: TVC Televicentro
-
 http://pe.shortgod.com/speed20/tv2/528.m3u8
