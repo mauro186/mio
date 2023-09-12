@@ -63,40 +63,24 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
 #EXTINF:-1,ECU : Canal Uno
-
-http://pe.shortgod.com/speed20/tv2.php?id=529
-
+http://pe.shortgod.com/palacios92/tv2.php?id=529
 #EXTINF:-1,ECU:Ecuador TV
-
-http://pe.shortgod.com/speed20/tv2.php?id=525
-
+http://pe.shortgod.com/palacios92/tv2.php?id=525
 #EXTINF:-1,ECU: Ecuavisa
-
-http://pe.shortgod.com/speed20/tv2.php?id=524
-
+http://pe.shortgod.com/palacios92/tv2.php?id=524
 #EXTINF:-1,ECU: GamaVision HD
-
-http://pe.shortgod.com/speed20/tv2.php?id=531
-
+http://pe.shortgod.com/palacios92/tv2.php?id=531
 #EXTINF:-1,ECU: RTS HD
-
-http://pe.shortgod.com/speed20/tv2.php?id=530
-
+http://pe.shortgod.com/palacios92/tv2.php?id=530
 #EXTINF:-1,ECU: TC Televisión
-
-http://pe.shortgod.com/speed20/tv2.php?id=526
-
+http://pe.shortgod.com/palacios92/tv2.php?id=526
 #EXTINF:-1,ECU: TeleAmazonas HD
-
-http://pe.shortgod.com/speed20/tv2.php?id=527
-
+http://pe.shortgod.com/palacios92/tv2.php?id=527
 #EXTINF:-1,ECU: TVC Televicentro
-
-http://pe.shortgod.com/speed20/tv2.php?id=528
+http://pe.shortgod.com/palacios92/tv2.php?id=528
 #EXTINF:-1,ECUADOR | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)
-http://pe.shortgod.com/speed20/tv10.php?id=46958
+http://pe.shortgod.com/palacios92/tv10.php?id=46958
 #EXTINF:-1,ECUADOR | EL CANAL DEL FUTBOL SD ( EVENTOS SOLO)
-http://pe.shortgod.com/speed20/tv10.php?id=46959
-
+http://pe.shortgod.com/palacios92/tv10.php?id=46959
 #EXTINF:-1,TyC Deportes
-http://pe.shortgod.com/speed20/tv10.php?id=227558
+http://pe.shortgod.com/palacios92/tv10.php?id=227558
