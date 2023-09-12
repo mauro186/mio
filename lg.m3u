@@ -78,9 +78,22 @@ http://pe.shortgod.com/palacios92/tv2.php?id=526
 http://pe.shortgod.com/palacios92/tv2.php?id=527
 #EXTINF:-1,ECU: TVC Televicentro
 http://pe.shortgod.com/palacios92/tv2.php?id=528
-#EXTINF:-1,ECUADOR | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)
-http://pe.shortgod.com/palacios92/tv10.php?id=46958
-#EXTINF:-1,ECUADOR | EL CANAL DEL FUTBOL SD ( EVENTOS SOLO)
-http://pe.shortgod.com/palacios92/tv10.php?id=46959
-#EXTINF:-1,TyC Deportes
-http://pe.shortgod.com/palacios92/tv10.php?id=227558
+#EXTINF:-1 ,Directv 1 CE
+
+http://pe.shortgod.com/palacios92/tv2.php?id=1032
+#EXTINF:-1 ,Directv 2 CE
+
+http://pe.shortgod.com/palacios92/tv2.php?id=850
+#EXTINF:-1 ,Directv Deportes 1
+
+http://pe.shortgod.com/palacios92/tv2.php?id=791
+#EXTINF:-1 ,Directv Deportes 2
+
+http://pe.shortgod.com/palacios92/tv2.php?id=792
+#EXTINF:-1 ,Directv Deportes+
+
+http://pe.shortgod.com/palacios92/tv2.php?id=793
+#EXTINF:-1 ,ECDF
+
+http://pe.shortgod.com/palacios92/tv2.php?id=804
+#EXTINF:-1 ,Espn 1
