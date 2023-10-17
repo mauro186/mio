@@ -63,6 +63,8 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
+#EXTINF:-1,ECDF El canal del futbol HD
+http://pe.shortgod.com/aasw2dsdsadascasc/tv8.php?id=164
 #EXTINF:-1 tvg-logo="https://www.xtrim.com.ec/images/xtr-vod-item-logo-ecdf.png" group-title="",EC | EL CANAL DEL FUTBOL
 https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=45973&f=.m3u8
 #EXTINF:-1,ECU-Canal Del Futbol (X)(1080)
@@ -187,3 +189,5 @@ http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1101
 http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22150
 #EXTINF:-1,ECU-RTU (M)(SD)
 http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22151
+#EXTINF:-1,24/7 El Juego Del Calamar
+http://pe.shortgod.com/aasw2dsdsadascasc/tv8.php?id=348
