@@ -63,83 +63,127 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
-#EXTINF:-1,â€¢â— â˜…--DEPORTES ECUADOR--â˜…â— â€¢
-http://pe.shortgod.com/wasd2ad/tv2.php?id=60145
-#EXTINF:-1,ECU-PPV 1 (PM)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=66867
-#EXTINF:-1,ECU-PPV 2 (PM)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=66868
-#EXTINF:-1,ECU-PPV 3 (e)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=69536
-#EXTINF:-1,ECU-Gol TV (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1098
-#EXTINF:-1,ECU-GOL TV (L)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=309424
-#EXTINF:-1,ECU-Gol TV (M)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=22153
-#EXTINF:-1,ECU-Gol TV (X)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=22160
+#EXTINF:-1 tvg-logo="https://www.xtrim.com.ec/images/xtr-vod-item-logo-ecdf.png" group-title="",EC | EL CANAL DEL FUTBOL
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=45973&f=.m3u8
+#EXTINF:-1,ECU-Canal Del Futbol (X)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=65386
 #EXTINF:-1,ECU-Canal del Futbol (L)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=179084
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=179084
 #EXTINF:-1,ECU-Canal del Futbol (L)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=179085
-#EXTINF:-1,ECU-Directv Deportes (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=989
-#EXTINF:-1,ECU-Directv Deportes (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=990
-#EXTINF:-1,ECU-Directv Deportes (e)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=991
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=179085
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png",Ecuador | Canal Del Futbol
+http://pe.shortgod.com/aasw2dsdsadascasc/tv1.php?id=892.m3u8
+#EXTINF:-1,ECU-Directv Sports (e)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=989
+#EXTINF:-1,ECU-Directv Sports (e)(720)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=990
+#EXTINF:-1,ECU-Directv Sports (e)(SD)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=991
+#EXTINF:-1,ECU-Gol TV (PM)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1097
+#EXTINF:-1,ECU-Gol TV (e)(720)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1098
+#EXTINF:-1,ECU-GOL TV (L)(720)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=309424
+#EXTINF:-1,ECU-Gol TV  (M)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22153
+#EXTINF:-1,ECU-Gol TV (X)(720)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22160
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=955
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(720)
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="",ECU | GAMAVISION
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=10445&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="",ECU | GOL TV
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=10438&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="",ECU | Oromar
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=30815&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="",ECU | TC Television
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=10441&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="",ECU | Telerama
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=30817&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="",ECU | Telesistemas
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=30816&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="",ECU | Televicentro
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=30818&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/258x9618a/ecuadortv.png" group-title="",ECU: ECUADOR TV
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=10446&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="",ECU | ECUAVISA
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=10443&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="",ECU: TELEAMAZONAS
+https://pe.shortgod.com/aasw2dsdsadascasc/tv7.php?ch=610&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png",Ecuador | Televicentro
+http://pe.shortgod.com/aasw2dsdsadascasc/tv1.php?id=776.m3u8
+
+#EXTINF:-1,â€¢â—â˜…--DEPORTES ECUADOR--â˜…â—â€¢
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=60145
+#EXTINF:-1,ECU-PPV 1 (PM)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=66867
+#EXTINF:-1,ECU-PPV 2 (PM)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=66868
+#EXTINF:-1,ECU-PPV 3 (e)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=69536
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png",Ecuador | TeleAmazonas
+http://pe.shortgod.com/aasw2dsdsadascasc/tv1.php?id=320.m3u8
 #EXTINF:-1,ECU-Teleamazonas Quito (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121622
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121622
 #EXTINF:-1,ECU-Teleamazonas Quito (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121623
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121623
 #EXTINF:-1,ECU-Teleamazonas Quito (e)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121624
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121624
 #EXTINF:-1,ECU-Teleamazonas Costa (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1094
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1094
 #EXTINF:-1,ECU-Teleamazonas Costa (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1095
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1095
 #EXTINF:-1,ECU-Teleamazonas Costa (e)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1096
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1096
 #EXTINF:-1,ECU-Teleamazona Costa (X)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=22156
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22156
 #EXTINF:-1,ECU-Ecuavisa Quito (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121619
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121619
 #EXTINF:-1,ECU-Ecuavisa Quito (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121620
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121620
 #EXTINF:-1,ECU-Ecuavisa Quito (e)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121621
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121621
 #EXTINF:-1,ECU-Ecuavisa Costa (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1109
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1109
 #EXTINF:-1,ECU-Ecuavisa Costa (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1110
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1110
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png",Ecuador | Ecuavisa
+http://pe.shortgod.com/aasw2dsdsadascasc/tv1.php?id=319.m3u8
 #EXTINF:-1,ECU-Ecuavisa Costa (e)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1111
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1111
 #EXTINF:-1,ECU-RTS Costa (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1103
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1103
 #EXTINF:-1,ECU-RTS Costa (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1104
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1104
 #EXTINF:-1,ECU-RTS Costa (M)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1105
-#EXTINF:-1,ECU-TC Televisión Costa (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1106
-#EXTINF:-1,ECU-TC Televisión Costa (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1107
-#EXTINF:-1,Televisión ECU-TC (X)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=22155
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1105
+#EXTINF:-1,ECU-TC Television Costa (e)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1106
+#EXTINF:-1,ECU-TC Television Costa (e)(720)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1107
+#EXTINF:-1,ECU-TC Television (X)(1080)
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22155
 #EXTINF:-1,ECU-Gama Tv (e)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121625
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121625
 #EXTINF:-1,ECU-Gama Tv (e)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=121626
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=121626
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png",Ecuador | Gamavision
+http://pe.shortgod.com/aasw2dsdsadascasc/tv1.php?id=891.m3u8
 #EXTINF:-1,ECU-TVC UIO (PM)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=180318
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=180318
 #EXTINF:-1,ECU-TVC UIO (PM)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=180319
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=180319
 #EXTINF:-1,ECU-Oromar Tv (X)(1080)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1100
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1100
 #EXTINF:-1,ECU-Oromar Tv (X)(720)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=1101
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=1101
 #EXTINF:-1,ECU-Oromar TV (X)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=22150
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22150
 #EXTINF:-1,ECU-RTU (M)(SD)
-http://pe.shortgod.com/wasd2ad/tv2.php?id=22151
+http://pe.shortgod.com/aasw2dsdsadascasc/tv2.php?id=22151
