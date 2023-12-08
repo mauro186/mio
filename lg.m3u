@@ -62,67 +62,61 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png",Entretenimiento | TC Ecuador
-http://pe.shortgod.com/awp20wpsa/tv1.php?id=885.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png",Ecuador | Canal Del Futbol
-http://pe.shortgod.com/awp20wpsa/tv1.php?id=892.m3u8
+http://pe.shortgod.com/zaapw21e/tv1.php?id=892.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png",Ecuador | Ecuavisa
-http://pe.shortgod.com/awp20wpsa/tv1.php?id=319.m3u8
+http://pe.shortgod.com/zaapw21e/tv1.php?id=319.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png",Ecuador | Gamavision
-http://pe.shortgod.com/awp20wpsa/tv1.php?id=891.m3u8
+http://pe.shortgod.com/zaapw21e/tv1.php?id=891.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png",Ecuador | TeleAmazonas
-http://pe.shortgod.com/awp20wpsa/tv1.php?id=320.m3u8
+http://pe.shortgod.com/zaapw21e/tv1.php?id=320.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png",Ecuador | Televicentro
-http://pe.shortgod.com/awp20wpsa/tv1.php?id=776.m3u8
-#EXTINF:-1,CO | DirecTV Eventos 1 á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175066
-#EXTINF:-1,CO | DirecTV Eventos 3 á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175067
-#EXTINF:-1,CO | DirecTV Eventos 5 á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175068
-#EXTINF:-1,CO | DirecTV Eventos 7 á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175069
-#EXTINF:-1,EC | Canal Uno HD
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175150
-#EXTINF:-1,EC | ECUADOR TV 7 SD
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175151
-#EXTINF:-1,EC | Canela TV
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175152
-#EXTINF:-1,EC | Ecuador TV á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175153
-#EXTINF:-1,EC | Gamavision á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175156
-#EXTINF:-1,EC | Oromar TV á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175159
-#EXTINF:-1,EC | RTS á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175162
-#EXTINF:-1,EC | TC Television á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175165
-#EXTINF:-1,EC | ECUADOR | Teleamazonas Sierra
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175168
-#EXTINF:-1,EC | Teleamazonas [Quito] HD Directo
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175169
-#EXTINF:-1,EC | Teleamazonas [Gquil] á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175171
-#EXTINF:-1,EC | TVC á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175174
-#EXTINF:-1,EC | Ecuavisa Quito HD
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175178
-#EXTINF:-1,EC | Ecuavisa [Gquil] HD
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175179
-#EXTINF:-1,EC | Ecuavisa Internacional á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175182
-#EXTINF:-1,EC | Ecuavisa [Quito] á¶ á´´á´°
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175184
-#EXTINF:-1,EC | Zaracay TV
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175186
-#EXTINF:-1,EC | RTS Micro SD
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175189
-#EXTINF:-1,EC | Ecotel TV
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175190
-#EXTINF:-1,EC | Asomavision
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175191
-#EXTINF:-1,EC | TELERAMA
-http://pe.shortgod.com/awp20wpsa/tv2.php?id=175192
-https://live.unsion.tv/hls/stream_src/index.m3u8
+http://pe.shortgod.com/zaapw21e/tv1.php?id=776.m3u8
 
+
+#EXTINF:-1,CO | DirecTV Eventos 5 á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175068
+#EXTINF:-1,CO | DirecTV Eventos 7 á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175069
+#EXTINF:-1,EC | Canal Uno HD
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175150
+#EXTINF:-1,EC | ECUADOR TV 7 SD
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175151
+#EXTINF:-1,EC | Canela TV
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175152
+#EXTINF:-1,EC | Ecuador TV á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175153
+#EXTINF:-1,EC | Gamavision á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175156
+#EXTINF:-1,EC | Oromar TV á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175159
+#EXTINF:-1,EC | RTS á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175162
+#EXTINF:-1,EC | TC Television á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175165
+#EXTINF:-1,EC | ECUADOR | Teleamazonas Sierra
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175168
+#EXTINF:-1,EC | Teleamazonas [Quito] HD Directo
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175169
+#EXTINF:-1,EC | Teleamazonas [Gquil] á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175171
+#EXTINF:-1,EC | TVC á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175174
+#EXTINF:-1,EC | Ecuavisa Quito HD
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175178
+#EXTINF:-1,EC | Ecuavisa [Gquil] HD
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175179
+#EXTINF:-1,EC | Ecuavisa Internacional á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175182
+#EXTINF:-1,EC | Ecuavisa [Quito] á¶ á´´á´°
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175184
+#EXTINF:-1,EC | Zaracay TV
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175186
+#EXTINF:-1,EC | RTS Micro SD
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175189
+#EXTINF:-1,EC | Ecotel TV
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175190
+#EXTINF:-1,EC | Asomavision
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175191
+#EXTINF:-1,EC | TELERAMA
+http://pe.shortgod.com/zaapw21e/tv2.php?id=175192
