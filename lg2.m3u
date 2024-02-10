@@ -11,7 +11,7 @@ https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="TV ECUADOR", Hechos Ecuador HD
 http://192.99.56.185/hechosecuador/live.m3u8
 #EXTINF:-1tvg-logo="https://rocafuerteenmarcha.com/rw_common/images/rocafuerte.png" group-title="TV ECUADOR", ROCAFUERTE TV/RADIO
-https://video1.lhdserver.es/rocafuerteradiotv/live.m3u8
+https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w180331534.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV2
