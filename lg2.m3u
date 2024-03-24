@@ -62,6 +62,8 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
+#EXTINF:-1  group-title="", EC: ibc
+http://pe.shortgod.com/volve24/tv9.php?id=45973
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" group-logo="sinlogo" tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="ULTIMATE",El Canal Del Futbol
 http://pe.shortgod.com/volve24/tv1.php?id=K1A3RnR5ZFNHYm9CS080Vkh3WXZNSW5MUE1vcElETHZCbGdKN09xY0EwNHhRLzMybERBPQ==
