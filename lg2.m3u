@@ -21,7 +21,7 @@ https://youvideostreaming.club/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS INTERNACIONAL
 http://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA
-https://youvideostreaming.club/hls/ecutv1.m3u8
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream3/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA 2
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU
