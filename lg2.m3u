@@ -62,106 +62,18 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
-#EXTINF:-1  group-title="", EC: ibc
-http://pe.shortgod.com/volve24/tv9.php?id=45973
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" group-logo="sinlogo" tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="ULTIMATE",El Canal Del Futbol
-http://pe.shortgod.com/volve24/tv1.php?id=K1A3RnR5ZFNHYm9CS080Vkh3WXZNSW5MUE1vcElETHZCbGdKN09xY0EwNHhRLzMybERBPQ==
-#EXTINF:-1  group-title="", Movistar Deportes
-http://pe.shortgod.com/volve24/tv6.php?id=194
-#EXTINF:-1  group-title="", EC: TeleAmazonas
-http://pe.shortgod.com/volve24/tv6.php?id=195
-#EXTINF:-1  group-title="", EC: RTS
-http://pe.shortgod.com/volve24/tv6.php?id=313
-#EXTINF:-1  group-title="", EC: Tele Amazonas
-http://pe.shortgod.com/volve24/tv6.php?id=314
-#EXTINF:-1  group-title="", ECDF
-http://pe.shortgod.com/volve24/tv6.php?id=315
-#EXTINF:-1  group-title="", EC: TC
-http://pe.shortgod.com/volve24/tv6.php?id=316
-#EXTINF:-1  group-title="", EC: Oromar TV
-http://pe.shortgod.com/volve24/tv6.php?id=317
-#EXTINF:-1  group-title="", EC: RTU
-http://pe.shortgod.com/volve24/tv6.php?id=318
-#EXTINF:-1  group-title="", Espn Sur
-http://pe.shortgod.com/volve24/tv6.php?id=17
-#EXTINF:-1  group-title="", Espn 2 Sur
-http://pe.shortgod.com/volve24/tv6.php?id=18
-#EXTINF:-1  group-title="", Espn 3 Sur
-http://pe.shortgod.com/volve24/tv6.php?id=19
-#EXTINF:-1  group-title="", Directv Sports
-http://pe.shortgod.com/volve24/tv6.php?id=20
-#EXTINF:-1  group-title="", Directv Sports 2
-http://pe.shortgod.com/volve24/tv6.php?id=21
-#EXTINF:-1  group-title="", Directv Sports Plus
-http://pe.shortgod.com/volve24/tv6.php?id=22
-#EXTINF:-1 tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="",LAT-E | Canal del Futbol FHD ( Solo Eventos ) (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46846&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fraudiay79/logos/blob/master/ec/canaluno.png?raw=true" group-title="",LAT-E | Canal Uno FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46847&f=.m3u8
-#EXTINF:-1 tvg-logo="https://sahagunenlinea.com/wp-content/uploads/2016/11/canal-uno.jpg" group-title="",LAT-E | Canal Uno HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46848&f=.m3u8
-#EXTINF:-1 tvg-logo="https://sahagunenlinea.com/wp-content/uploads/2016/11/canal-uno.jpg" group-title="",LAT-E | Canal Uno SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46849&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fraudiay79/logos/blob/master/ec/canelatv.png?raw=true" group-title="",LAT-E | Canela TV SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46850&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="",LAT-E | DIRECTV SPORTS FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46851&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="",LAT-E | DIRECTV SPORTS HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46852&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_(2018).png/1200px-DirecTV_Sports_Latin_America_(2018).png" group-title="",LAT-E | DIRECTV SPORTS SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46853&f=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no/photo.jpg" group-title="",LAT-E | Ecuador TV FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46854&f=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no/photo.png" group-title="",LAT-E | Ecuador TV HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46855&f=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no/photo.png" group-title="",LAT-E | Ecuador TV SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46856&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/ecuavisa-logo-2019/Ecuavisa_Logo_2019.png" group-title="",LAT-E | Ecuavisa FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46857&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/ecuavisa-logo-2019/Ecuavisa_Logo_2019.png" group-title="",LAT-E | Ecuavisa HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46858&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/ecuavisa-logo-2019/Ecuavisa_Logo_2019.png" group-title="",LAT-E | Ecuavisa SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46859&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/ecuavisa-logo-2019/Ecuavisa_Logo_2019.png" group-title="",LAT-E | Ecuavisa Sierra (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46860&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Nuevologo-Gamavisi%C3%B3n.png/revision/latest?cb=20171030201419" group-title="",LAT-E | Gamavision FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46861&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Nuevologo-Gamavisi%C3%B3n.png/revision/latest?cb=20171030201419" group-title="",LAT-E | Gamavision HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46862&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Nuevologo-Gamavisi%C3%B3n.png/revision/latest?cb=20171030201419" group-title="",LAT-E | Gamavision SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46863&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="",LAT-E | GOL TV HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46864&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="",LAT-E | Gol TV SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46865&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="",LAT-E | GOLTV ECUADOR HD
-http://pe.shortgod.com/volve24/tv8.php?id=46866&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png/revision/latest?cb=20171117035307" group-title="",LAT-E | Oromar TV FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46867&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png/revision/latest?cb=20171117035307" group-title="",LAT-E | Oromar TV HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46868&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fraudiay79/logos/blob/master/ec/rts.png?raw=true" group-title="",LAT-E | RTS FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46869&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fraudiay79/logos/blob/master/ec/rts.png?raw=true" group-title="",LAT-E | RTS HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46870&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fraudiay79/logos/blob/master/ec/rts.png?raw=true" group-title="",LAT-E | RTS SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46871&f=.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1.png" group-title="",LAT-E | TC Television FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46872&f=.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1.png" group-title="",LAT-E | TC Television HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46873&f=.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1.png" group-title="",LAT-E | TC Television SD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46874&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="",LAT-E | Teleamazonas FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46875&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="",LAT-E | Teleamazonas FHD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46876&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="",LAT-E | Teleamazonas HD (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46877&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="",LAT-E | Teleamazonas Sierra (ECUADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46878&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="",LAT-E | TELEDOS (EL SALVADOR)
-http://pe.shortgod.com/volve24/tv8.php?id=46879&f=.m3u8
+
+#EXTINF:-1,Ecuavisa
+http://pe.shortgod.com/temporal/play.php?id=378
+#EXTINF:-1,EC: TC
+http://pe.shortgod.com/temporal/play.php?id=316
+#EXTINF:-1,EC: RTU
+http://pe.shortgod.com/temporal/play.php?id=318
+#EXTINF:-1,EC: RTS
+http://pe.shortgod.com/temporal/play.php?id=313
+
+
+
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6JTeym9bxfY3QLcMLPOyDwHaHa&pid=Api&P=0&h=220" group-title="",LAT-E | TVC FHD (ECUADOR)
 http://pe.shortgod.com/volve24/tv8.php?id=46880&f=.m3u8
