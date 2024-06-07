@@ -63,7 +63,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="http://centroecuador.ec/wp-content/uploads/2016/10/CENTRO-mueve-tu-vida-e1477167079903.png" group-title="TV ECUADOR", CENTRO TV
 https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?customtoken=34597bfc-0a23-447d-aee9-a7424d34022f&hdnts=exp=1628858270~acl=*~hmac=14beca9240b5aba4c628c7ab403f4b438e7db68853030a270250fd7d4fbf02d9&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&resellerId=57c5f08c2cdcf929dd79a688
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Ecuador-TV-en-vivo-Online-100x70.png" group-title="TV ECUADOR", ECUADOR TV
-http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
