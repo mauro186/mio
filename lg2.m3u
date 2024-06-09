@@ -81,3 +81,31 @@ http://pe.shortgod.com/temporal/play.php?id=313
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6JTeym9bxfY3QLcMLPOyDwHaHa&pid=Api&P=0&h=220" group-title="",LAT-E | TVC FHD (ECUADOR)
 http://pe.shortgod.com/volve24/tv8.php?id=46880&f=.m3u8
+#EXTINF:-1,Gol Perú
+http://pe.shortgod.com/temporal/play.php?id=6
+#EXTINF:-1,Gol TV
+http://pe.shortgod.com/temporal/play.php?id=7
+#EXTINF:-1,TNT SPORTS
+http://pe.shortgod.com/temporal/play.php?id=9
+#EXTINF:-1,Espn Premium
+http://pe.shortgod.com/temporal/play.php?id=10
+#EXTINF:-1,TYC SPORTS
+http://pe.shortgod.com/temporal/play.php?id=11
+#EXTINF:-1,Espn Deportes
+http://pe.shortgod.com/temporal/play.php?id=15
+#EXTINF:-1,Espn Extra
+http://pe.shortgod.com/temporal/play.php?id=16
+#EXTINF:-1,Espn Sur
+http://pe.shortgod.com/temporal/play.php?id=17
+#EXTINF:-1,Espn 2 Sur
+http://pe.shortgod.com/temporal/play.php?id=18
+#EXTINF:-1,Espn 3 Sur
+http://pe.shortgod.com/temporal/play.php?id=19
+#EXTINF:-1,Directv Sports
+http://pe.shortgod.com/temporal/play.php?id=20
+#EXTINF:-1,Directv Sports 2
+http://pe.shortgod.com/temporal/play.php?id=21
+#EXTINF:-1,Directv Sports Plus
+http://pe.shortgod.com/temporal/play.php?id=22
+#EXTINF:-1,Bein La Liga
+http://pe.shortgod.com/temporal/play.php?id=23
