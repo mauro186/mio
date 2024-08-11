@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Noticias_wordpress/2023/11/Copia-de-TC_2022_negro-1.png" group-title="TV ECUADOR", TC TELEVISION	
-https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10318.m3u8
+http://190.95.220.212:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION 2
 https://stream-08.ix7.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8mj3_kqneBhs71NejpHO6H9yhOIk_-FPMWFrZDAMgrv)/dm/3/x7wijay/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION 3
@@ -68,35 +68,33 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
 
-#EXTINF:-1,Ecuavisa
-http://pe.shortgod.com/wow/play.php?id=378
-#EXTINF:-1,EC: TC
-http://pe.shortgod.com/wow/play.php?id=316
-#EXTINF:-1,EC: RTU
-http://pe.shortgod.com/wow/play.php?id=318
-#EXTINF:-1,EC: RTS
-http://pe.shortgod.com/wow/play.php?id=313
-#EXTINF:-1,Directv Sports
-http://pe.shortgod.com/wow/play.php?id=20
-#EXTINF:-1,Directv Sports 2
-http://pe.shortgod.com/wow/play.php?id=21
-#EXTINF:-1,Directv Sports Plus
-http://pe.shortgod.com/wow/play.php?id=22
-#EXTINF:-1,DIRECTV SPORTS FHD
-http://pe.shortgod.com/wow/play.php?id=256
-#EXTINF:-1,Directv Sports Fight
-http://pe.shortgod.com/wow/play.php?id=36
-#EXTINF:-1,Bein La Liga
-http://pe.shortgod.com/wow/play.php?id=23
-#EXTINF:-1,Fox Sports Mexico
-http://pe.shortgod.com/wow/play.php?id=24
-#EXTINF:-1,Fox Sports 2 Mexico
-http://pe.shortgod.com/wow/play.php?id=25
-#EXTINF:-1,Fox Sports 3 Mexico
-http://pe.shortgod.com/wow/play.php?id=26
-#EXTINF:-1,Espn Mexico
-http://pe.shortgod.com/wow/play.php?id=27
-#EXTINF:-1,Espn 2 Mexico
-http://pe.shortgod.com/wow/play.php?id=28
-#EXTINF:-1,Espn 3 Mexico
-http://pe.shortgod.com/wow/play.php?id=29
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",El canal del futbol
+http://190.95.220.212:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",ECDF
+http://190.95.220.212:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Ecuavisa
+https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Ecuavisa
+http://190.95.220.212:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Ecuavisa
+http://177.234.247.66:8888/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Teleamazonas
+http://190.95.220.212:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",TC Television
+http://190.95.220.212:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",RTS
+http://190.95.220.212:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",ORO MAR
+http://190.95.220.212:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",GAMAVISION
+http://190.95.220.212:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Ecuavisa
+http://190.95.220.212:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",Outlet
+http://190.95.220.212:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",TVC
+http://190.95.220.212:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Ecuador" tvg-logo="",WUAN+
+http://190.95.220.212:8000/play/a04p/index.m3u8
