@@ -7,9 +7,9 @@ https://youvideostreaming.club/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/250px-Logo_UCSG.svg.png" group-title="TV ECUADOR", UCSG HD
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="TV ECUADOR", ORO MAR TV 
-https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="TV ECUADOR", Hechos Ecuador HD
-http://192.99.56.185/hechosecuador/live.m3u8
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1tvg-logo="https://rocafuerteenmarcha.com/rw_common/images/rocafuerte.png" group-title="TV ECUADOR", ROCAFUERTE TV/RADIO
 https://tv.portalexpress.es:3415/live/rocafuertefmlive.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV
@@ -28,6 +28,8 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://tvmanabita.tv/wp-content/uploads/2023/02/cropped-cropped-cropped-web-02.png" group-title="TV ECUADOR", TV MANABITA
 https://play.once.net.ec/play/HbaoT9F-4TAAP_ZT4g8bPI8H6yVyUdub0x3KmX9BMudpm5hqmRWKQhZJ6yuSwDVy/m3u8
+#EXTINF:-1 tvg-logo="https://tvmanabita.tv/wp-content/uploads/2023/02/cropped-cropped-cropped-web-02.png" group-title="TV ECUADOR", MANAVISION
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png" group-title="TV ECUADOR",RTU
