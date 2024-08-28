@@ -77,8 +77,7 @@ http://190.95.220.212:8000/play/a04n/index.m3u8
 
 
 #EXTINF:-1 group-title="Ecuador" tvg-logo="",tc
-https://jactvpro.xyz/auth/10318.m3u8?token=FDq4e0T01ywUvVNQsMSTRG8PETjb8KmQ2txylAjrpzDtNrty6ylrISn0f832fBjqeGHavmyywTW_wdRLewJOkKa5Fi7Ovf3hzcO30qBnjQ_4zb3u5wMDSbla9_QWoAwX3uWHHXHNaLzV_7ywBT4oKo_5ieRluT9jqGkOMJpKpQtFSGhr0zwVePTbmxS9WAxl1jhd7SM1bkSztgFdO-gvCnSKYe9pJFaOqjZ3XnWTHXJwLnAbMJeVW9g6S3yarEk9NENnPJJefeHoblKUr1uLBcYUax_LE7IapOI9PVy3Y41uZv6yWQFIl5ApeeRrJyVkn2wwosxjxCyRiInTNfpktFAqdo3s6G6fbggb6NFmP6RnMbSQKy4HLNh--eu0XvG-VC_9802txblNZghJaOCBEeVeCZQGbcecg4XffOhRoD8cv48l9U6AbIR27-WO09hDNCuufAt00zYK1VVCE3ljS62-MSc4E4oC3roOF-p8Um6rzUfbO3fx34w2tclIVkg7bZY3SkTNgwczfKjXV2LYngh_Oa53PEipoFWKc4rkv54XUFbhyQU4fnmIrRWuDu5wNMn2QSBY57-QMDIps_z4ORDz9Op5hnLOA5BnNQyAY_c
-#EXTINF:-1 group-title="Ecuador" tvg-logo="",ECDF
+http://109.123.252.244:2082/carlosgonzales6/6578hqwe/76533
 http://190.95.220.212:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="Ecuador" tvg-logo="",Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
