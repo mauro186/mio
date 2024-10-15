@@ -114,67 +114,135 @@ http://109.123.252.244:2082/Yerkoirach/933464860/76557
 http://109.123.252.244:2082/Yerkoirach/933464860/71642
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gol TV FHD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="ECUADOR",EC | Gol TV FHD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/12788
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR",EC | Ecuavisa Internacional HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/118049
-#EXTINF:-1 tvg-id="" tvg-name="EC | Teleamazonas Sierra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBu9VCQzJYgH6sPIdN8R_FBoOGP_gPo2wKA&usqp=CAU" group-title="ECUADOR",EC | Teleamazonas Sierra HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/177093
-#EXTINF:-1 tvg-id="" tvg-name="EC | TeleAmazonas FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBu9VCQzJYgH6sPIdN8R_FBoOGP_gPo2wKA&usqp=CAU" group-title="ECUADOR",EC | TeleAmazonas FHD 
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/12867
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gamavisión  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesWLXtnhIy8-YGNUCvT2pRhf5whKsJfqiHMaOefXzussVhEV-&usqp=CAU" group-title="ECUADOR",EC | Gamavisión  
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/12868
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gol TV SD " tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="ECUADOR",EC | Gol TV SD 
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/12870
-#EXTINF:-1 tvg-id="" tvg-name="EC | Oromar TV HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR10G7LKePMpy7BC83Hu-ZKXW7l6dysGaY_GVPENJvI2uSZPmh6&usqp=CAU" group-title="ECUADOR",EC | Oromar TV HD 
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/21775
-#EXTINF:-1 tvg-id="" tvg-name="EC | TeleAmazonas SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBu9VCQzJYgH6sPIdN8R_FBoOGP_gPo2wKA&usqp=CAU" group-title="ECUADOR",EC | TeleAmazonas SD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/21776
-#EXTINF:-1 tvg-id="" tvg-name="EC | Canela TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3VgtuQRFeDLXwTxvVGu628Bekm_sbE4aLmODiUeQt2xWHj76Y&usqp=CAU" group-title="ECUADOR",EC | Canela TV
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/21780
-#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC | Ecuavisa Quito HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVnRUkJbssHIKsNWVgHepcdevjcXDW82ddQ&usqp=CAU" group-title="ECUADOR",EC | Ecuavisa Quito HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198787
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa Quito HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVnRUkJbssHIKsNWVgHepcdevjcXDW82ddQ&usqp=CAU" group-title="ECUADOR",EC | Ecuavisa Quito HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198788
-#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC | Ecuavisa Guayaquil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVnRUkJbssHIKsNWVgHepcdevjcXDW82ddQ&usqp=CAU" group-title="ECUADOR",EC | Ecuavisa Guayaquil HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198789
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC | TeleAmazonas Guayaquil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBu9VCQzJYgH6sPIdN8R_FBoOGP_gPo2wKA&usqp=CAU" group-title="ECUADOR",EC | TeleAmazonas Guayaquil HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198792
-#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="EC | Canal Uno HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTFkVgz67WYSEDWBUQGy25Ss7K4R_4X9MiQ&usqp=CAU" group-title="ECUADOR",EC | Canal Uno HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198796
-#EXTINF:-1 tvg-id="" tvg-name="EC | Canal Uno SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTFkVgz67WYSEDWBUQGy25Ss7K4R_4X9MiQ&usqp=CAU" group-title="ECUADOR",EC | Canal Uno SD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198797
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC Televisión HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgD_ggm8ADmJX9WgdsFrFWwKzzJfcsPQfkgA&usqp=CAU" group-title="ECUADOR",EC | TC Televisión HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198804
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUz03Vktowl60qT62nnVwICAHGRSkGFOi1gQ&usqp=CAU" group-title="ECUADOR",EC | Ecuador TV HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198805
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="EC | Gamavisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivf4JybBn61BApaQj2JtHj-M3wbx3uHAPDA&usqp=CAU" group-title="ECUADOR",EC | Gamavisión
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198806
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFonJV4iRrdtnDn2DcZGflPYBo_PHP_n5lHA&usqp=CAU" group-title="ECUADOR",EC | RTU
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198809
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gol TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4Hx1WosroD0t1VOUFF-xmjupcuis0_DHMg&usqp=CAU" group-title="ECUADOR",EC | Gol TV HD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198813
-#EXTINF:-1 tvg-id="" tvg-name="EC | El Canal del Futbol SD ►℗" tvg-logo="https://elcomercio.pe/resizer/31IbraW959eKbypMUdbBhdoHVPQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="ECUADOR",EC | El Canal del Futbol SD ►℗
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/211335
-#EXTINF:-1 tvg-id="" tvg-name="EC | El Canal del Futbol FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0tthp_QxxMA-HtzHnwABffBky53pBFaZPw&usqp=CAU" group-title="ECUADOR",EC | El Canal del Futbol FHD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/198814
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTU SD" tvg-logo="https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/138561073_5305941816113127_5201706354358967430_n.jpg?_nc_cat=108&ccb=1-4&_nc_sid=973b4a&_nc_ohc=_Xbd1F8mBbwAX9N1xdo&_nc_ht=scontent.fuio1-1.fna&oh=45b2348a55c5e60f25fdc09dc4e29c02&oe=61363B09" group-title="ECUADOR",EC | RTU SD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/233310
-#EXTINF:-1 tvg-id="" tvg-name="EC | TeleAmazonas QUITO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBu9VCQzJYgH6sPIdN8R_FBoOGP_gPo2wKA&usqp=CAU" group-title="ECUADOR",EC | TeleAmazonas QUITO
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/254869
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS +" tvg-logo="" group-title="ECUADOR",EC | RTS +
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/469054
-
-#EXTINF:-1 tvg-id="" tvg-name="EC | Oromar FHD" tvg-logo="" group-title="ECUADOR",EC | Oromar FHD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/469056
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC Televisión" tvg-logo="" group-title="ECUADOR",EC | TC Televisión
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/469061
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gamavisión" tvg-logo="" group-title="ECUADOR",EC | Gamavisión
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/469062
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV" tvg-logo="" group-title="ECUADOR",EC | Ecuador TV
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/469063
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS Ecuador FHD" tvg-logo="" group-title="ECUADOR",EC | RTS Ecuador FHD
-http://51.81.67.130:8080/Granav69/JWSn3QxpaR6D/275598
-
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | RTS" tvg-logo="" group-title="ECUADOR",ECUADOR SD | RTS
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108337
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | ECUADOR TV" tvg-logo="" group-title="ECUADOR",ECUADOR SD | ECUADOR TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108338
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | TC TELEVISION" tvg-logo="" group-title="ECUADOR",ECUADOR SD | TC TELEVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108339
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | TVC" tvg-logo="" group-title="ECUADOR",ECUADOR SD | TVC
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108340
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUADOR SD | ECUAVISA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108341
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUADOR SD | ECUAVISA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108342
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | OROMAR TV" tvg-logo="" group-title="ECUADOR",ECUADOR SD | OROMAR TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108343
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR  SD | TELEAMAZONAS (SIERRA)" tvg-logo="" group-title="ECUADOR",ECUADOR  SD | TELEAMAZONAS (SIERRA)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108344
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL SD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL SD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108345
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUADOR HD | ECUAVISA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108346
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | ECUADOR TV" tvg-logo="" group-title="ECUADOR",ECUADOR HD | ECUADOR TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108347
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | ECUADOR TV" tvg-logo="" group-title="ECUADOR",ECUADOR HD | ECUADOR TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108348
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | OROMAR TV" tvg-logo="" group-title="ECUADOR",ECUADOR HD | OROMAR TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108349
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | TC TELEVISION" tvg-logo="" group-title="ECUADOR",ECUADOR HD | TC TELEVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108350
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | TELEAMAZONAS (COSTA)" tvg-logo="" group-title="ECUADOR",ECUADOR HD | TELEAMAZONAS (COSTA)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108351
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | IESS (CANAL UNO CERRADO)" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | IESS (CANAL UNO CERRADO)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108352
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | DIRECTV SPORTS 1" tvg-logo="" group-title="ECUADOR",ECUADOR HD | DIRECTV SPORTS 1
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108353
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL HD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL HD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108354
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUADOR HD | ECUAVISA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108355
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | TELEAMAZONAS (SIERRA)" tvg-logo="" group-title="ECUADOR",ECUADOR HD | TELEAMAZONAS (SIERRA)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108356
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | GAMAVISION" tvg-logo="" group-title="ECUADOR",ECUADOR HD | GAMAVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108357
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL HD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL HD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108358
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | RTS" tvg-logo="" group-title="ECUADOR",ECUADOR HD | RTS
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108359
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | TC TELEVISION" tvg-logo="" group-title="ECUADOR",ECUADOR SD | TC TELEVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108360
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | TELEAMAZONAS (COSTA)" tvg-logo="" group-title="ECUADOR",ECUADOR HD | TELEAMAZONAS (COSTA)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108361
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | EL CANAL DEL FUTBOL" tvg-logo="" group-title="ECUADOR",ECUADOR HD | EL CANAL DEL FUTBOL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108362
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD |  TVC" tvg-logo="" group-title="ECUADOR",ECUADOR HD |  TVC
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108363
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | EL CANAL DEL FUTBOL" tvg-logo="" group-title="ECUADOR",ECUADOR HD | EL CANAL DEL FUTBOL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108364
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | GAMAVISION" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | GAMAVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108365
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | TC TELEVISION" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | TC TELEVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108366
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | RTS FHD" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | RTS FHD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108367
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | IESS (CANAL UNO CERRADO)" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | IESS (CANAL UNO CERRADO)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108368
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD  | TELEAMAZONA (COSTA)" tvg-logo="" group-title="ECUADOR",ECUADOR FHD  | TELEAMAZONA (COSTA)
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108369
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL FHD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL FHD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108370
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | TC TELEVISION" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | TC TELEVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108371
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | GAMAVISION" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | GAMAVISION
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108372
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | ECUAVISA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108373
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | EL CANAL DEL FUTBOL" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | EL CANAL DEL FUTBOL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108374
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | EL CANAL DEL FUTBOL" tvg-logo="" group-title="ECUADOR",ECUADOR SD | EL CANAL DEL FUTBOL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108375
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HD | EL CANAL DEL FUTBOL" tvg-logo="" group-title="ECUADOR",ECUADOR HD | EL CANAL DEL FUTBOL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108376
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | EL CANAL DEL FUTBOL" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | EL CANAL DEL FUTBOL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108377
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | DIRECTV SPORTS 1" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | DIRECTV SPORTS 1
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108378
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | DIRECTV SPORTS 2" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | DIRECTV SPORTS 2
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108379
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR FHD | DIRECTV SPORTS +" tvg-logo="" group-title="ECUADOR",ECUADOR FHD | DIRECTV SPORTS +
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108380
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | DIRECTV SPORTS 1" tvg-logo="" group-title="ECUADOR",ECUADOR SD | DIRECTV SPORTS 1
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108381
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | DIRECTV SPORTS 2" tvg-logo="" group-title="ECUADOR",ECUADOR SD | DIRECTV SPORTS 2
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108382
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | DIRECTV SPORTS +" tvg-logo="" group-title="ECUADOR",ECUADOR SD | DIRECTV SPORTS +
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108383
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | CANELA TV" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | CANELA TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108384
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | RTU" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | RTU
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108385
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | HECHOS TV" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | HECHOS TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108386
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | MAX TV" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | MAX TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108387
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | TV PURUWA" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | TV PURUWA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108388
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | RETRO PLUS" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | RETRO PLUS
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108389
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | TELERAMA" tvg-logo="" group-title="ECUADOR",ECUADOR SD | TELERAMA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108390
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | AMERICA ESTEREO" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | AMERICA ESTEREO
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108391
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | ECOTEL TV" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | ECOTEL TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108392
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | EDUCA TV" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | EDUCA TV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108393
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR LOCAL | RECTV" tvg-logo="" group-title="ECUADOR",ECUADOR LOCAL | RECTV
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108394
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES HD | KANAL D DRAMA" tvg-logo="" group-title="ECUADOR",CULTURALES HD | KANAL D DRAMA
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108395
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 1 FHD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL 1 FHD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108396
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 1 HD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL 1 HD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108397
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 2 FHD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL 2 FHD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108398
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL 2 HD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL 2 HD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108399
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL SD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL SD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108400
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR | SEÑAL HD" tvg-logo="" group-title="ECUADOR",GOL TV ECUADOR | SEÑAL HD
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108401
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA HD | CARACOL INTERNACIONAL" tvg-logo="" group-title="COLUMBIA",COLOMBIA HD | CARACOL INTERNACIONAL
+http://365300.solanaflix.com:8080/TV-47682584/784030231811/108402
