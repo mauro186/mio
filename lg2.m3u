@@ -94,3 +94,112 @@ http://961706265409963961.ofxn1112.xyz:80/play/he1028938/QAhyxvGBwCcu/963961.ts
 http://365300.solanaflix.com:8080/TV-47682584/784030231811/108401
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA HD | CARACOL INTERNACIONAL" tvg-logo="" group-title="COLUMBIA",COLOMBIA HD | CARACOL INTERNACIONAL
 http://365300.solanaflix.com:8080/TV-47682584/784030231811/108402
+
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports (Only Events)" tvg-logo="" group-title="→ ECUADOR ←",ECU | Zapping Sports (Only Events)
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ ECUADOR ←",ECU | Zapping Sports ( Only Events )*
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Canela TV" tvg-logo="http://209.126.82.213/EC/canelatv.png" group-title="→ ECUADOR ←",ECU | Canela TV
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Directv Sports HD" tvg-logo="http://209.126.82.213/EC/directv_sports.png" group-title="→ ECUADOR ←",ECU | Directv Sports HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuador TV" tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←",ECU | Ecuador TV
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuador TV HD" tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←",ECU | Ecuador TV HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuavisa HD Quito" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←",ECU | Ecuavisa HD Quito
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuavisa FHD Quito" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←",ECU | Ecuavisa FHD Quito
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuavisa Guayaquil  ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←",ECU | Ecuavisa Guayaquil  ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuavisa HD Guayaquil" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←",ECU | Ecuavisa HD Guayaquil
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Gamavision  ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/gmavision.png" group-title="→ ECUADOR ←",ECU | Gamavision  ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Gamavision HD" tvg-logo="http://209.126.82.213/EC/gmavision.png" group-title="→ ECUADOR ←",ECU | Gamavision HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Gamavision FHD" tvg-logo="http://209.126.82.213/EC/gmavision.png" group-title="→ ECUADOR ←",ECU | Gamavision FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Gol TV" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="→ ECUADOR ←",ECU | Gol TV
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Gol TV FHD" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="→ ECUADOR ←",ECU | Gol TV FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Oromar" tvg-logo="http://209.126.82.213/EC/oromar.png" group-title="→ ECUADOR ←",ECU | Oromar
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | RTS" tvg-logo="http://209.126.82.213/EC/rts.png" group-title="→ ECUADOR ←",ECU | RTS
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | RTS  ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/rts.png" group-title="→ ECUADOR ←",ECU | RTS  ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | RTS FHD" tvg-logo="http://209.126.82.213/EC/rts.png" group-title="→ ECUADOR ←",ECU | RTS FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | RTU" tvg-logo="http://209.126.82.213/EC/rtu.png" group-title="→ ECUADOR ←",ECU | RTU
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | TC  ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/tccanal.png" group-title="→ ECUADOR ←",ECU | TC  ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | TC HD" tvg-logo="http://209.126.82.213/EC/tccanal.png" group-title="→ ECUADOR ←",ECU | TC HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | TC FHD" tvg-logo="http://209.126.82.213/EC/tccanal.png" group-title="→ ECUADOR ←",ECU | TC FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Teleamazonas Quito" tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←",ECU | Teleamazonas Quito
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Teleamazonas HD" tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←",ECU | Teleamazonas HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Teleamazonas FHD Guayaquil" tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←",ECU | Teleamazonas FHD Guayaquil
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Teleamazonas ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←",ECU | Teleamazonas ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Televicentro  ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/televicentro.png" group-title="→ ECUADOR ←",ECU | Televicentro  ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Televicentro FHD" tvg-logo="http://209.126.82.213/EC/televicentro.png" group-title="→ ECUADOR ←",ECU | Televicentro FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zaracay TV" tvg-logo="http://209.126.82.213/EC/zaracaytv.png" group-title="→ ECUADOR ←",ECU | Zaracay TV
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | ECDF  ᵗᵛᵐ" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF  ᵗᵛᵐ
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | ECDF FHD" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Gol TV HD" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="→ ECUADOR ←",ECU | Gol TV HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | DIRECTV SPORTS +" tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="→ ECUADOR ←",DEP. ECUADOR | DIRECTV SPORTS +
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | DIRECTV SPORTS + OP1" tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="→ ECUADOR ←",DEP. ECUADOR | DIRECTV SPORTS + OP1
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | GOL TV OP1" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="→ ECUADOR ←",DEP. ECUADOR | GOL TV OP1
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | GOL TV OP2" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="→ ECUADOR ←",DEP. ECUADOR | GOL TV OP2
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | EL CANAL DEL FUTBOL OP2" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ ECUADOR ←",DEP. ECUADOR | EL CANAL DEL FUTBOL OP2
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ECUADOR | EL CANAL DEL FUTBOL OP1" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ ECUADOR ←",DEP. ECUADOR | EL CANAL DEL FUTBOL OP1
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽ FUTBOL ECUADOR | ECDF FHD" tvg-logo="https://st2.depositphotos.com/1905483/5698/i/450/depositphotos_56983035-stock-photo-flag-of-ecuador.jpg" group-title="→ ECUADOR ←",⚽ FUTBOL ECUADOR | ECDF FHD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUAVISA QUITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="→ ECUADOR ←",ECUADOR | ECUAVISA QUITO
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUAVISA GUAYAQUIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="→ ECUADOR ←",ECUADOR | ECUAVISA GUAYAQUIL
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="→ ECUADOR ←",ECUADOR | ECUAVISA INTERNACIONAL
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEAMAZONAS GQUIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="→ ECUADOR ←",ECUADOR | TELEAMAZONAS GQUIL
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEAMAZONAS Q SIERRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="→ ECUADOR ←",ECUADOR | TELEAMAZONAS Q SIERRA
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="→ ECUADOR ←",ECUADOR | RTS HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | OROMAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="→ ECUADOR ←",ECUADOR | OROMAR TV HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TC TELEVISION" tvg-logo="https://www.ecured.cu/images/thumb/d/d1/TC-Televisi%C3%B3n.png/1200px-TC-Televisi%C3%B3n.png" group-title="→ ECUADOR ←",ECUADOR | TC TELEVISION
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TC TELEVISION" tvg-logo="https://www.ecured.cu/images/thumb/d/d1/TC-Televisi%C3%B3n.png/1200px-TC-Televisi%C3%B3n.png" group-title="→ ECUADOR ←",ECUADOR | TC TELEVISION
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUADOR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="→ ECUADOR ←",ECUADOR | ECUADOR TV HD
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GAMAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="→ ECUADOR ←",ECUADOR | GAMAVISION
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELERAMA" tvg-logo="https://www.yelu.ec/img/ec/h/1637078098-10-etv-telerama.png" group-title="→ ECUADOR ←",ECUADOR | TELERAMA
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV (ᴇᴄ)" tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←",Ecuador TV (ᴇᴄ)
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="→ ECUADOR ←",ECUADOR | RTS
+http://23.153.216.68:8080/live/joseblastv/b96ad8/250907.m3u8
