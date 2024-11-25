@@ -9,13 +9,14 @@ https://youvideostreaming.club/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/250px-Logo_UCSG.svg.png" group-title="TV ECUADOR", UCSG HD
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="TV ECUADOR", ORO MAR TV 
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="TV ECUADOR", Hechos Ecuador HD
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+https://online.hechosecuador.com:5443/WebRTCApp/streams/noticias.m3u8
 #EXTINF:-1tvg-logo="https://rocafuerteenmarcha.com/rw_common/images/rocafuerte.png" group-title="TV ECUADOR", ROCAFUERTE TV/RADIO
-https://tv.portalexpress.es:3415/live/rocafuertefmlive.m3u8
+https://online.hechosecuador.com:5443/WebRTCApp/streams/Rocafuerte.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w180331534.m3u8
+https://amg00658-amg00658c23-canelatv-international-5053.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvltapp-canelatvinternational/cb563d19726c618784cf2167d1f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aac6852db80148b6f4adafb8c2360625f5c98435ee3b24aa3abe45410dd69f4ac4d1a922c58e683179fc914bc8581469d41d025f21dcfc6f6da824388a3ab5ef817f20b1a4c2d6f9cbf6c81c52fd2b0f84718c61b42251a5bf2d1f0942f6cdc372934f1f9ca8071e603cbfb41eb02199a5af325e73c877fd86dcd836081f7ccb52d453cb2cd586418ace4ae8dee3434b8149fc88bd86026e09c7e7957d952da37253c9cf8b97feeaa1697b82689b527092e9ac52ff888a08f9dfde7019431ded7e7c2720d4d620a078a5cec8e7b9439d179b1cb016e5f4545a39450c8c9da5f3e674387cd4ac24141f4b1e887d60a498c0a5f59ea648a5a5d6ec8796f78bc2eb4ce6d388b6b08d23068b60c60d713a8e87fa0f18be45f61d9b4a241f07fffb478b19c63f937433368a6e1134f57456bd1ed7f7f4113ac4bf1dfc6de621a3ffce5c4e8c150215d577d300588908f1afda7e10b4c5b9661cf011e627f6cc16908a5626c236cae3bd0b908708a1453558cc50c7c2aa21255d3fbeae5c551a17793eef03c3d325a62c75f6da8f86dd7ff3ccc2d426a751fc067ecdf03662823daefbfd58b8f78c79267a33922106685c01e42015b7d60029ada0885198af96c13c96e8d82e126cd3c2b4592bb6b5ee37c2689cc8cc25d0693ab183e7296ca26d46624cb2d194ae2dd5dd7aa5c0a103d0f1d8cde14b768b0d19ec83c896c837b432fba36ebc7a384df6800b3ca0a2b655d1c575e426620098fdfd74f096fa3e974b113b5bd15e1697c07126b92c20c578ded373b9936756fece0e883bfc50e15853fa72487304df6195d6ed2cd3eeb91bbbcafd4381a538fc4de26d196818fc8d9dd353e5a3c42fcef6b15268868a0f6448bcb3a73e08e87e0a01eb47df03ab681f663a40ba9c5b801b983df99df7204554e58eccb95ab40c3ddea2451cf28974b4670a07dcc9eddf2aae5aaf3a9f7e5d6/14/1280x720_3071200/index.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV2
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1231033442.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS
