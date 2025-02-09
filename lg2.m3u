@@ -27,8 +27,9 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://stream-pull-a.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream3/chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA 2
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/ecuavisaqo/livestream3/chunks.m3u8?dpssid=b224556755667a8d003912dd&sid=ba5t1l1xb228433973567a8d0045d0d9&ndvc=0
+#EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA 2
 #EXTINF:-1 tvg-logo="https://tvmanabita.tv/wp-content/uploads/2023/02/cropped-cropped-cropped-web-02.png" group-title="TV ECUADOR", TV MANABITA
 https://play.once.net.ec/play/HbaoT9F-4TAAP_ZT4g8bPI8H6yVyUdub0x3KmX9BMudpm5hqmRWKQhZJ6yuSwDVy/m3u8
 #EXTINF:-1 tvg-logo="https://tvmanabita.tv/wp-content/uploads/2023/02/cropped-cropped-cropped-web-02.png" group-title="TV ECUADOR", MANAVISION
