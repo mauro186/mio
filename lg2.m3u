@@ -42,6 +42,9 @@ https://video2.makrodigital.com/rtu/rtu/chunks.m3u8
 https://d27a7brtx3v90o.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="TV ECUADOR", TVC
 https://d2blnrh268ipk.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="TV ECUADOR", TVC2
+https://d2blnrh268ipk.cloudfront.net/index.m3u8
+https://d2blnrh268ipk.cloudfront.net/live_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="TV ECUADOR",ECOTEL TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=320&height=320" group-title="TV ECUADOR",WUAN+
